@@ -1,2 +1,4 @@
 # Enrich_CU
-This repo is ...
+<div align="center">
+<h1>SimChart9K: Chart Understanding <br></h1>
+</div>
